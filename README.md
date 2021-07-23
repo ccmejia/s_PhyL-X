@@ -6,6 +6,6 @@ En este repositorio encontrarán los diferentes códigos que iremos construyendo
 
 Cualquier duda o sugerencia que consideren pertinente no duden en comunicarmela.
 
-Sinceramente,
+Salu2,
 
 Crist.
